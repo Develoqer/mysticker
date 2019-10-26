@@ -1,2 +1,2 @@
 # mysticker
-mon sticker
+mon autocollant
